@@ -1,0 +1,803 @@
+Zip Code,City,County,Population
+27610,Raleigh,Wake County,79924.0
+28269,Charlotte,Mecklenburg County,77248.0
+28277,Charlotte,Mecklenburg County,72132.0
+28027,Concord,Cabarrus County,68716.0
+27587,Wake Forest,Wake County,68491.0
+27406,Greensboro,Guilford County,63199.0
+28215,Charlotte,Mecklenburg County,62543.0
+28078,Huntersville,Mecklenburg County,61043.0
+28173,Waxhaw,Union County,59559.0
+27858,Greenville,Pitt County,59182.0
+28314,Fayetteville,Cumberland County,58827.0
+28227,Charlotte,Mecklenburg County,57336.0
+27834,Greenville,Pitt County,57258.0
+27519,Cary,Wake County,56482.0
+27410,Greensboro,Guilford County,55707.0
+27284,Kernersville,Forsyth County,55489.0
+27616,Raleigh,Wake County,55128.0
+28655,Morganton,Burke County,55009.0
+27603,Raleigh,Wake County,54457.0
+28025,Concord,Cabarrus County,54425.0
+27713,Durham,Durham County,54348.0
+28110,Monroe,Union County,53733.0
+27703,Durham,Durham County,53733.0
+27407,Greensboro,Guilford County,51900.0
+27265,High Point,Guilford County,51477.0
+27707,Durham,Durham County,51414.0
+28601,Hickory,Catawba County,51401.0
+27529,Garner,Wake County,50683.0
+28216,Charlotte,Mecklenburg County,49849.0
+27705,Durham,Durham County,49508.0
+28540,Jacksonville,Onslow County,49144.0
+27405,Greensboro,Guilford County,48879.0
+28205,Charlotte,Mecklenburg County,48798.0
+27106,Winston Salem,Forsyth County,48709.0
+27526,Fuquay Varina,Wake County,48581.0
+27604,Raleigh,Wake County,48494.0
+28210,Charlotte,Mecklenburg County,48333.0
+27107,Winston Salem,Forsyth County,48000.0
+28212,Charlotte,Mecklenburg County,47903.0
+27606,Raleigh,Wake County,47478.0
+28546,Jacksonville,Onslow County,46435.0
+28645,Lenoir,Caldwell County,46232.0
+28105,Matthews,Mecklenburg County,46180.0
+27360,Thomasville,Davidson County,45974.0
+27513,Cary,Wake County,45542.0
+28376,Raeford,Hoke County,44967.0
+27615,Raleigh,Wake County,43950.0
+28806,Asheville,Buncombe County,43597.0
+28262,Charlotte,Mecklenburg County,43209.0
+28213,Charlotte,Mecklenburg County,43099.0
+27516,Chapel Hill,Orange County,43036.0
+28306,Fayetteville,Cumberland County,42973.0
+28214,Charlotte,Mecklenburg County,42412.0
+27520,Clayton,Johnston County,42387.0
+27215,Burlington,Alamance County,42331.0
+27613,Raleigh,Wake County,42324.0
+28403,Wilmington,New Hanover County,41525.0
+27502,Apex,Wake County,41455.0
+28273,Charlotte,Mecklenburg County,41170.0
+28117,Mooresville,Iredell County,40855.0
+28092,Lincolnton,Lincoln County,40517.0
+27127,Winston Salem,Forsyth County,40511.0
+27704,Durham,Durham County,40392.0
+28208,Charlotte,Mecklenburg County,40284.0
+27105,Winston Salem,Forsyth County,40134.0
+27330,Sanford,Lee County,40121.0
+27612,Raleigh,Wake County,39989.0
+28226,Charlotte,Mecklenburg County,39796.0
+27540,Holly Springs,Wake County,39675.0
+28625,Statesville,Iredell County,39559.0
+27909,Elizabeth City,Pasquotank County,39551.0
+27893,Wilson,Wilson County,39531.0
+27292,Lexington,Davidson County,39360.0
+28412,Wilmington,New Hanover County,39106.0
+28411,Wilmington,New Hanover County,39019.0
+27320,Reidsville,Rockingham County,38997.0
+27530,Goldsboro,Wayne County,38940.0
+28358,Lumberton,Robeson County,38858.0
+28562,New Bern,Craven County,38317.0
+27295,Lexington,Davidson County,38255.0
+28054,Gastonia,Gaston County,37876.0
+28079,Indian Trail,Union County,37694.0
+28115,Mooresville,Iredell County,37673.0
+27217,Burlington,Alamance County,37099.0
+28304,Fayetteville,Cumberland County,36682.0
+28607,Boone,Watauga County,36550.0
+28270,Charlotte,Mecklenburg County,36086.0
+27560,Morrisville,Wake County,35800.0
+28348,Hope Mills,Cumberland County,35721.0
+27030,Mount Airy,Surry County,35575.0
+28311,Fayetteville,Cumberland County,35334.0
+28451,Leland,Brunswick County,35236.0
+28052,Gastonia,Gaston County,35169.0
+28409,Wilmington,New Hanover County,34849.0
+27205,Asheboro,Randolph County,34805.0
+28792,Hendersonville,Henderson County,34703.0
+28677,Statesville,Iredell County,34703.0
+27103,Winston Salem,Forsyth County,34688.0
+28803,Asheville,Buncombe County,34491.0
+28056,Gastonia,Gaston County,34373.0
+27511,Cary,Wake County,34078.0
+27609,Raleigh,Wake County,33575.0
+27514,Chapel Hill,Orange County,33208.0
+28405,Wilmington,New Hanover County,32909.0
+27614,Raleigh,Wake County,32849.0
+27534,Goldsboro,Wayne County,32492.0
+28104,Matthews,Mecklenburg County,31773.0
+27302,Mebane,Alamance County,31280.0
+28211,Charlotte,Mecklenburg County,31121.0
+28752,Marion,Mcdowell County,30924.0
+27332,Sanford,Lee County,30743.0
+27253,Graham,Alamance County,30573.0
+28217,Charlotte,Mecklenburg County,30082.0
+28303,Fayetteville,Cumberland County,29888.0
+27804,Rocky Mount,Nash County,29519.0
+28278,Charlotte,Mecklenburg County,29347.0
+28602,Hickory,Catawba County,28902.0
+27607,Raleigh,Wake County,28874.0
+27455,Greensboro,Guilford County,28791.0
+27545,Knightdale,Wake County,28676.0
+28146,Salisbury,Rowan County,28420.0
+27104,Winston Salem,Forsyth County,28402.0
+27012,Clemmons,Forsyth County,28334.0
+28081,Kannapolis,Cabarrus County,28116.0
+28031,Cornelius,Mecklenburg County,28077.0
+28734,Franklin,Macon County,27887.0
+28658,Newton,Catawba County,27688.0
+28560,New Bern,Craven County,27458.0
+28328,Clinton,Sampson County,27372.0
+28150,Shelby,Cleveland County,26965.0
+27278,Hillsborough,Orange County,26884.0
+27577,Smithfield,Johnston County,26875.0
+28112,Monroe,Union County,26831.0
+27549,Louisburg,Franklin County,26716.0
+27889,Washington,Beaufort County,26637.0
+28001,Albemarle,Stanly County,26557.0
+28715,Candler,Buncombe County,26476.0
+27028,Mocksville,Davie County,26465.0
+28681,Taylorsville,Alexander County,26448.0
+28352,Laurinburg,Scotland County,25575.0
+28083,Kannapolis,Cabarrus County,25536.0
+27260,High Point,Guilford County,25505.0
+27870,Roanoke Rapids,Halifax County,25497.0
+28086,Kings Mountain,Cleveland County,25436.0
+27517,Chapel Hill,Orange County,25355.0
+28547,Camp Lejeune,Onslow County,25354.0
+27565,Oxford,Granville County,25127.0
+28590,Winterville,Pitt County,25032.0
+28144,Salisbury,Rowan County,24858.0
+28390,Spring Lake,Cumberland County,24768.0
+27597,Zebulon,Wake County,24691.0
+28401,Wilmington,New Hanover County,24656.0
+28152,Shelby,Cleveland County,24523.0
+28379,Rockingham,Richmond County,24512.0
+27262,High Point,Guilford County,24510.0
+28326,Cameron,Moore County,24217.0
+28012,Belmont,Gaston County,23830.0
+27537,Henderson,Vance County,23736.0
+28209,Charlotte,Mecklenburg County,23533.0
+28147,Salisbury,Rowan County,23495.0
+27288,Eden,Rockingham County,23436.0
+28334,Dunn,Harnett County,23410.0
+27401,Greensboro,Guilford County,23388.0
+28613,Conover,Catawba County,23353.0
+28443,Hampstead,Pender County,23266.0
+27701,Durham,Durham County,23112.0
+27403,Greensboro,Guilford County,22867.0
+28804,Asheville,Buncombe County,22511.0
+28532,Havelock,Craven County,22220.0
+27263,High Point,Guilford County,21886.0
+28504,Kinston,Lenoir County,21717.0
+28120,Mount Holly,Gaston County,21582.0
+28787,Weaverville,Buncombe County,21533.0
+28739,Hendersonville,Henderson County,21492.0
+28659,North Wilkesboro,Wilkes County,21457.0
+28570,Newport,Carteret County,21402.0
+27712,Durham,Durham County,21301.0
+27546,Lillington,Harnett County,21129.0
+27501,Angier,Harnett County,21055.0
+28786,Waynesville,Haywood County,21004.0
+27203,Asheboro,Randolph County,20983.0
+27896,Wilson,Wilson County,20791.0
+28037,Denver,Lincoln County,20619.0
+27591,Wendell,Wake County,20562.0
+27312,Pittsboro,Chatham County,20508.0
+28461,Southport,Brunswick County,20506.0
+28139,Rutherfordton,Rutherford County,20467.0
+28043,Forest City,Rutherford County,20339.0
+27617,Raleigh,Wake County,20281.0
+27886,Tarboro,Edgecombe County,20280.0
+28630,Granite Falls,Caldwell County,20262.0
+27518,Cary,Wake County,20102.0
+27801,Rocky Mount,Edgecombe County,20065.0
+28805,Asheville,Buncombe County,19952.0
+28712,Brevard,Transylvania County,19847.0
+27101,Winston Salem,Forsyth County,19713.0
+28906,Murphy,Cherokee County,19701.0
+28704,Arden,Buncombe County,19261.0
+27344,Siler City,Chatham County,19116.0
+28075,Harrisburg,Cabarrus County,19099.0
+28472,Whiteville,Columbus County,18522.0
+28779,Sylva,Jackson County,18477.0
+28574,Richlands,Onslow County,18448.0
+27408,Greensboro,Guilford County,18323.0
+28036,Davidson,Mecklenburg County,18266.0
+27576,Selma,Johnston County,18222.0
+28732,Fletcher,Henderson County,18107.0
+27596,Youngsville,Franklin County,18043.0
+27803,Rocky Mount,Nash County,17905.0
+28501,Kinston,Lenoir County,17772.0
+28716,Canton,Haywood County,17770.0
+27021,King,Stokes County,17489.0
+28034,Dallas,Gaston County,17386.0
+28374,Pinehurst,Moore County,17347.0
+27856,Nashville,Nash County,17258.0
+27409,Greensboro,Guilford County,17223.0
+27282,Jamestown,Guilford County,17090.0
+28307,Fort Bragg,Cumberland County,17065.0
+28327,Carthage,Moore County,17013.0
+28714,Burnsville,Yancey County,16941.0
+28301,Fayetteville,Cumberland County,16929.0
+28203,Charlotte,Mecklenburg County,16655.0
+27536,Henderson,Vance County,16522.0
+28539,Hubert,Onslow County,16509.0
+27317,Randleman,Randolph County,16169.0
+28023,China Grove,Rowan County,16129.0
+27244,Elon College,Alamance County,16036.0
+27592,Willow Spring,Wake County,15972.0
+28164,Stanley,Gaston County,15623.0
+27504,Benson,Johnston County,15593.0
+28365,Mount Olive,Wayne County,15533.0
+28791,Hendersonville,Henderson County,15528.0
+28387,Southern Pines,Moore County,15437.0
+28557,Morehead City,Carteret County,15298.0
+27510,Carrboro,Orange County,15117.0
+27358,Summerfield,Guilford County,15028.0
+27525,Franklinton,Franklin County,14819.0
+28360,Lumberton,Robeson County,14769.0
+28364,Maxton,Robeson County,14732.0
+28551,La Grange,Lenoir County,14684.0
+27370,Trinity,Randolph County,14409.0
+28021,Cherryville,Gaston County,14408.0
+27006,Advance,Davie County,14329.0
+27892,Williamston,Martin County,14217.0
+28372,Pembroke,Robeson County,14196.0
+28697,Wilkesboro,Wilkes County,13833.0
+28801,Asheville,Buncombe County,13790.0
+27524,Four Oaks,Johnston County,13675.0
+28202,Charlotte,Mecklenburg County,13498.0
+28016,Bessemer City,Gaston County,13405.0
+28315,Aberdeen,Moore County,13303.0
+28711,Black Mountain,Buncombe County,13269.0
+27055,Yadkinville,Yadkin County,13145.0
+28580,Snow Hill,Greene County,13010.0
+28462,Supply,Brunswick County,12917.0
+28470,Shallotte,Brunswick County,12812.0
+27863,Pikeville,Wayne County,12782.0
+27023,Lewisville,Forsyth County,12728.0
+28377,Red Springs,Robeson County,12654.0
+28748,Leicester,Buncombe County,12606.0
+27522,Creedmoor,Granville County,12552.0
+28584,Swansboro,Onslow County,12536.0
+27040,Pfafftown,Forsyth County,12519.0
+28612,Connellys Springs,Burke County,12314.0
+28638,Hudson,Caldwell County,12277.0
+27932,Edenton,Chowan County,12129.0
+28206,Charlotte,Mecklenburg County,12036.0
+28345,Hamlet,Richmond County,12003.0
+27249,Gibsonville,Guilford County,11882.0
+28425,Burgaw,Pender County,11833.0
+27214,Browns Summit,Guilford County,11825.0
+27944,Hertford,Perquimans County,11756.0
+27910,Ahoskie,Hertford County,11691.0
+28516,Beaufort,Carteret County,11455.0
+27573,Roxboro,Person County,11391.0
+27958,Moyock,Currituck County,11354.0
+28103,Marshville,Union County,11281.0
+27948,Kill Devil Hills,Dare County,11245.0
+27608,Raleigh,Wake County,11203.0
+28170,Wadesboro,Anson County,11187.0
+28384,Saint Pauls,Robeson County,11162.0
+28134,Pineville,Mecklenburg County,11037.0
+28650,Maiden,Catawba County,10955.0
+27025,Madison,Rockingham County,10937.0
+27298,Liberty,Randolph County,10925.0
+28723,Cullowhee,Jackson County,10918.0
+28333,Dudley,Wayne County,10902.0
+28460,Sneads Ferry,Onslow County,10845.0
+28777,Spruce Pine,Mitchell County,10717.0
+28467,Calabash,Brunswick County,10688.0
+28610,Claremont,Catawba County,10639.0
+28621,Elkin,Surry County,10637.0
+28337,Elizabethtown,Bladen County,10574.0
+27601,Raleigh,Wake County,10525.0
+28168,Vale,Lincoln County,10415.0
+28721,Clyde,Haywood County,10401.0
+27052,Walnut Cove,Stokes County,10383.0
+28513,Ayden,Pitt County,10339.0
+28457,Rocky Point,Pender County,10299.0
+28754,Mars Hill,Madison County,10290.0
+28138,Rockwell,Rowan County,10160.0
+28340,Fairmont,Robeson County,10075.0
+28207,Charlotte,Mecklenburg County,9986.0
+27828,Farmville,Pitt County,9834.0
+27376,West End,Moore County,9802.0
+28753,Marshall,Madison County,9671.0
+28166,Troutman,Iredell County,9651.0
+28778,Swannanoa,Buncombe County,9584.0
+27239,Denton,Davidson County,9562.0
+27045,Rural Hall,Forsyth County,9552.0
+28174,Wingate,Union County,9496.0
+27301,Mc Leansville,Guilford County,9358.0
+28466,Wallace,Duplin County,9292.0
+27542,Kenly,Johnston County,9288.0
+28320,Bladenboro,Bladen County,9233.0
+28730,Fairview,Buncombe County,9221.0
+28690,Valdese,Burke County,9189.0
+27017,Dobson,Surry County,9144.0
+28463,Tabor City,Columbus County,9116.0
+28904,Hayesville,Clay County,8969.0
+28518,Beulaville,Duplin County,8912.0
+27357,Stokesdale,Guilford County,8901.0
+28713,Bryson City,Swain County,8799.0
+28657,Newland,Avery County,8651.0
+27377,Whitsett,Guilford County,8612.0
+28383,Rowland,Robeson County,8518.0
+27983,Windsor,Bertie County,8502.0
+27371,Troy,Montgomery County,8431.0
+27048,Stoneville,Rockingham County,8423.0
+27316,Ramseur,Randolph County,8369.0
+28731,Flat Rock,Henderson County,8368.0
+28398,Warsaw,Duplin County,8296.0
+27822,Elm City,Wilson County,8225.0
+27557,Middlesex,Johnston County,8205.0
+27018,East Bend,Yadkin County,8204.0
+28422,Bolivia,Brunswick County,8116.0
+28771,Robbinsville,Graham County,8069.0
+28107,Midland,Cabarrus County,8024.0
+27569,Princeton,Johnston County,7993.0
+27882,Spring Hope,Nash County,7972.0
+28785,Waynesville,Haywood County,7953.0
+27041,Pilot Mountain,Surry County,7951.0
+27823,Enfield,Halifax County,7950.0
+27589,Warrenton,Warren County,7938.0
+27954,Manteo,Dare County,7938.0
+28080,Iron Station,Lincoln County,7857.0
+27325,Robbins,Moore County,7836.0
+28090,Lawndale,Cleveland County,7820.0
+28586,Vanceboro,Craven County,7808.0
+28694,West Jefferson,Ashe County,7719.0
+28127,New London,Stanly County,7704.0
+27962,Plymouth,Washington County,7696.0
+28719,Cherokee,Swain County,7674.0
+27949,Kitty Hawk,Dare County,7648.0
+27051,Walkertown,Forsyth County,7641.0
+27817,Chocowinity,Beaufort County,7614.0
+28479,Winnabow,Brunswick County,7561.0
+28128,Norwood,Stanly County,7519.0
+28768,Pisgah Forest,Transylvania County,7504.0
+28578,Seven Springs,Wayne County,7504.0
+28114,Mooresboro,Cleveland County,7475.0
+28040,Ellenboro,Rutherford County,7441.0
+28465,Oak Island,Brunswick County,7432.0
+28339,Erwin,Harnett County,7432.0
+27850,Littleton,Halifax County,7410.0
+27571,Rolesville,Wake County,7407.0
+27258,Haw River,Alamance County,7370.0
+27310,Oak Ridge,Guilford County,7253.0
+28382,Roseboro,Sampson County,7252.0
+28604,Banner Elk,Avery County,7227.0
+28204,Charlotte,Mecklenburg County,7199.0
+28445,Holly Ridge,Onslow County,7196.0
+28761,Nebo,Mcdowell County,7194.0
+27572,Rougemont,Durham County,7081.0
+27837,Grimesland,Pitt County,7075.0
+27583,Timberlake,Person County,7073.0
+28310,Fort Bragg,Cumberland County,7066.0
+28429,Castle Hayne,New Hanover County,7058.0
+28762,Old Fort,Mcdowell County,7054.0
+28431,Chadbourn,Columbus County,7027.0
+28371,Parkton,Robeson County,6964.0
+27505,Broadway,Lee County,6943.0
+27043,Pinnacle,Stokes County,6917.0
+28705,Bakersville,Mitchell County,6870.0
+28572,Pink Hill,Lenoir County,6866.0
+28782,Tryon,Polk County,6852.0
+28651,Millers Creek,Wilkes County,6820.0
+28458,Rose Hill,Duplin County,6761.0
+27313,Pleasant Garden,Guilford County,6733.0
+28675,Sparta,Alleghany County,6707.0
+28428,Carolina Beach,New Hanover County,6611.0
+27807,Bailey,Nash County,6604.0
+28530,Grifton,Pitt County,6577.0
+28073,Grover,Cleveland County,6541.0
+28722,Columbus,Polk County,6537.0
+27306,Mount Gilead,Montgomery County,6428.0
+27350,Sophia,Randolph County,6412.0
+27503,Bahama,Durham County,6377.0
+27521,Coats,Harnett County,6366.0
+28386,Shannon,Robeson County,6258.0
+28135,Polkton,Anson County,6245.0
+28673,Sherrills Ford,Catawba County,6221.0
+27020,Hamptonville,Yadkin County,6205.0
+27299,Linwood,Davidson County,6172.0
+28469,Ocean Isle Beach,Brunswick County,6094.0
+28097,Locust,Stanly County,6078.0
+27509,Butner,Granville County,6070.0
+27855,Murfreesboro,Hertford County,6066.0
+27605,Raleigh,Wake County,5990.0
+28124,Mount Pleasant,Cabarrus County,5946.0
+28544,Midway Park,Onslow County,5917.0
+28642,Jonesville,Yadkin County,5881.0
+28366,Newton Grove,Sampson County,5868.0
+28391,Stedman,Cumberland County,5842.0
+27349,Snow Camp,Alamance County,5825.0
+27013,Cleveland,Rowan County,5814.0
+28789,Whittier,Jackson County,5779.0
+28305,Fayetteville,Cumberland County,5751.0
+28678,Stony Point,Alexander County,5676.0
+28609,Catawba,Catawba County,5615.0
+28394,Vass,Moore County,5547.0
+27851,Lucama,Wilson County,5458.0
+28129,Oakboro,Stanly County,5416.0
+28163,Stanfield,Stanly County,5275.0
+27379,Yanceyville,Caswell County,5246.0
+28468,Sunset Beach,Brunswick County,5235.0
+28018,Bostic,Rutherford County,5234.0
+28433,Clarkton,Bladen County,5228.0
+27011,Boonville,Yadkin County,5201.0
+28543,Tarawa Terrace,Onslow County,5180.0
+27544,Kittrell,Vance County,5131.0
+28341,Faison,Duplin County,5047.0
+27891,Whitakers,Nash County,5036.0
+28640,Jefferson,Ashe County,4985.0
+28901,Andrews,Cherokee County,4927.0
+28636,Hiddenite,Alexander County,4901.0
+28634,Harmony,Iredell County,4852.0
+28356,Linden,Cumberland County,4819.0
+27341,Seagrove,Randolph County,4810.0
+28478,Willard,Pender County,4757.0
+27921,Camden,Camden County,4750.0
+27809,Battleboro,Edgecombe County,4747.0
+28338,Ellerbe,Richmond County,4718.0
+27864,Pinetops,Edgecombe County,4652.0
+27581,Stem,Granville County,4612.0
+28351,Laurel Hill,Scotland County,4598.0
+27209,Biscoe,Montgomery County,4584.0
+28555,Maysville,Jones County,4571.0
+27830,Fremont,Wayne County,4547.0
+27937,Gates,Gates County,4448.0
+27235,Colfax,Guilford County,4443.0
+28756,Mill Spring,Polk County,4388.0
+27243,Efland,Orange County,4369.0
+27871,Robersonville,Martin County,4293.0
+27563,Norlina,Warren County,4270.0
+28318,Autryville,Sampson County,4250.0
+27805,Aulander,Bertie County,4243.0
+28323,Bunnlevel,Harnett County,4207.0
+27027,Mayodan,Rockingham County,4190.0
+27976,South Mills,Camden County,4129.0
+27233,Climax,Guilford County,4096.0
+28420,Ash,Brunswick County,4075.0
+28692,Vilas,Watauga County,4070.0
+27810,Belhaven,Beaufort County,4045.0
+27925,Columbia,Tyrrell County,4003.0
+28585,Trenton,Jones County,3958.0
+27541,Hurdle Mills,Person County,3915.0
+27019,Germanton,Stokes County,3900.0
+28643,Lansing,Ashe County,3842.0
+27874,Scotland Neck,Halifax County,3837.0
+28160,Spindale,Rutherford County,3825.0
+27050,Tobaccoville,Forsyth County,3811.0
+28676,State Road,Surry County,3788.0
+28456,Riegelwood,Columbus County,3750.0
+28344,Godwin,Cumberland County,3726.0
+28594,Emerald Isle,Carteret County,3702.0
+28726,East Flat Rock,Henderson County,3701.0
+28741,Highlands,Macon County,3672.0
+28670,Ronda,Wilkes County,3649.0
+28098,Lowell,Gaston County,3632.0
+27924,Colerain,Bertie County,3568.0
+28453,Magnolia,Duplin County,3563.0
+27248,Franklinville,Randolph County,3555.0
+27311,Pelham,Caswell County,3521.0
+27229,Candor,Montgomery County,3484.0
+27839,Halifax,Halifax County,3479.0
+28751,Maggie Valley,Haywood County,3473.0
+27281,Jackson Springs,Moore County,3433.0
+27880,Sims,Wilson County,3421.0
+28441,Garland,Sampson County,3396.0
+27831,Garysburg,Northampton County,3381.0
+28533,Cherry Point,Craven County,3331.0
+28605,Blowing Rock,Watauga County,3312.0
+28790,Zirconia,Henderson County,3295.0
+28654,Moravian Falls,Wilkes County,3268.0
+28032,Cramerton,Gaston County,3245.0
+28701,Alexander,Buncombe County,3240.0
+27053,Westfield,Surry County,3233.0
+27207,Bear Creek,Chatham County,3227.0
+28512,Atlantic Beach,Carteret County,3211.0
+27024,Lowgap,Surry County,3205.0
+27283,Julian,Guilford County,3194.0
+27845,Jackson,Northampton County,3192.0
+28137,Richfield,Stanly County,3181.0
+28742,Horse Shoe,Henderson County,3155.0
+28033,Crouse,Lincoln County,3132.0
+28729,Etowah,Henderson County,3114.0
+27846,Jamesville,Martin County,3096.0
+28508,Albertson,Duplin County,3093.0
+27852,Macclesfield,Edgecombe County,3061.0
+28635,Hays,Wilkes County,3055.0
+28464,Teachey,Duplin County,3031.0
+27009,Belews Creek,Forsyth County,3002.0
+28773,Saluda,Polk County,2973.0
+28159,Spencer,Rowan County,2959.0
+27959,Nags Head,Dare County,2938.0
+27326,Ruffin,Rockingham County,2900.0
+28525,Deep Run,Lenoir County,2883.0
+27832,Gaston,Northampton County,2868.0
+28905,Marble,Cherokee County,2863.0
+27939,Grandy,Currituck County,2862.0
+27883,Stantonsburg,Wilson County,2850.0
+27844,Hollister,Halifax County,2846.0
+28526,Dover,Craven County,2797.0
+28521,Chinquapin,Duplin County,2769.0
+27356,Star,Montgomery County,2759.0
+28373,Pinebluff,Moore County,2749.0
+28088,Landis,Rowan County,2746.0
+28454,Maple Hill,Pender County,2733.0
+28167,Union Mills,Rutherford County,2732.0
+27054,Woodleaf,Rowan County,2725.0
+27553,Manson,Vance County,2725.0
+27110,Winston Salem,Forsyth County,2723.0
+28626,Fleetwood,Ashe County,2693.0
+27812,Bethel,Pitt County,2686.0
+27890,Weldon,Halifax County,2685.0
+28450,Lake Waccamaw,Columbus County,2684.0
+28071,Gold Hill,Rowan County,2667.0
+27109,Winston Salem,Forsyth County,2661.0
+28669,Roaring River,Wilkes County,2623.0
+27559,Moncure,Chatham County,2622.0
+28515,Bayboro,Pamlico County,2606.0
+28480,Wrightsville Beach,New Hanover County,2599.0
+28349,Kenansville,Duplin County,2598.0
+28357,Lumber Bridge,Robeson County,2590.0
+28689,Union Grove,Iredell County,2586.0
+28369,Orrum,Robeson County,2585.0
+28396,Wagram,Scotland County,2583.0
+27806,Aurora,Beaufort County,2576.0
+28618,Deep Gap,Watauga County,2561.0
+27007,Ararat,Surry County,2550.0
+28582,Stella,Carteret County,2507.0
+28455,Nakina,Columbus County,2500.0
+28571,Oriental,Pamlico County,2474.0
+28709,Barnardsville,Buncombe County,2470.0
+27970,Roper,Washington County,2446.0
+28125,Mount Ulla,Rowan County,2421.0
+28423,Bolton,Columbus County,2421.0
+28746,Lake Lure,Rutherford County,2420.0
+28133,Peachland,Anson County,2420.0
+28763,Otto,Macon County,2419.0
+27355,Staley,Randolph County,2394.0
+28119,Morven,Anson County,2391.0
+28665,Purlear,Wilkes County,2376.0
+27986,Winton,Hertford County,2362.0
+28020,Casar,Cleveland County,2354.0
+28698,Zionville,Watauga County,2312.0
+28444,Harrells,Sampson County,2310.0
+28430,Cerro Gordo,Columbus County,2298.0
+28747,Lake Toxaway,Transylvania County,2297.0
+28385,Salemburg,Sampson County,2277.0
+27888,Walstonburg,Greene County,2261.0
+28660,Olin,Iredell County,2210.0
+28435,Currie,Pender County,2210.0
+28523,Cove City,Craven County,2196.0
+27212,Blanch,Caswell County,2196.0
+28622,Elk Park,Avery County,2189.0
+28347,Hoffman,Richmond County,2187.0
+27562,New Hill,Wake County,2149.0
+27816,Castalia,Nash County,2125.0
+28436,Delco,Columbus County,2090.0
+27808,Bath,Beaufort County,2066.0
+27950,Knotts Island,Currituck County,2048.0
+28395,Wade,Cumberland County,2046.0
+27878,Sharpsburg,Nash County,2045.0
+27820,Conway,Northampton County,2041.0
+28684,Todd,Ashe County,2038.0
+27231,Cedar Grove,Orange County,2020.0
+27980,Tyner,Chowan County,2018.0
+28538,Hookerton,Greene County,2008.0
+28743,Hot Springs,Madison County,1997.0
+28091,Lilesville,Anson County,1975.0
+27865,Pinetown,Beaufort County,1963.0
+28393,Turkey,Sampson County,1962.0
+28399,White Oak,Bladen County,1955.0
+28717,Cashiers,Jackson County,1948.0
+27814,Blounts Creek,Beaufort County,1947.0
+27507,Bullock,Granville County,1930.0
+28617,Crumpler,Ashe County,1924.0
+28529,Grantsboro,Pamlico County,1920.0
+27935,Eure,Gates County,1879.0
+28783,Tuckasegee,Jackson County,1858.0
+28685,Traphill,Wilkes County,1854.0
+28615,Creston,Ashe County,1811.0
+27897,Woodland,Northampton County,1810.0
+27824,Engelhard,Hyde County,1797.0
+27929,Currituck,Currituck County,1787.0
+28449,Kure Beach,New Hanover County,1778.0
+27343,Semora,Person County,1772.0
+27046,Sandy Ridge,Stokes County,1771.0
+28573,Pollocksville,Jones County,1770.0
+27315,Providence,Caswell County,1763.0
+28447,Ivanhoe,Sampson County,1734.0
+27981,Wanchese,Dare County,1732.0
+27208,Bennett,Chatham County,1721.0
+27928,Creswell,Washington County,1717.0
+27869,Rich Square,Northampton County,1705.0
+27818,Como,Hertford County,1699.0
+27926,Corapeake,Gates County,1692.0
+28637,Hildebran,Burke County,1692.0
+28693,Warrensville,Ashe County,1690.0
+27551,Macon,Warren County,1684.0
+27252,Goldston,Chatham County,1669.0
+27860,Pantego,Beaufort County,1663.0
+28438,Evergreen,Columbus County,1651.0
+27305,Milton,Caswell County,1624.0
+27291,Leasburg,Caswell County,1616.0
+28421,Atkinson,Pender County,1610.0
+28679,Sugar Grove,Watauga County,1609.0
+27849,Lewiston Woodville,Bertie County,1608.0
+28619,Drexel,Burke County,1593.0
+28392,Tar Heel,Bladen County,1559.0
+28623,Ennice,Alleghany County,1540.0
+27920,Buxton,Dare County,1527.0
+28072,Granite Quarry,Rowan County,1527.0
+28510,Arapahoe,Pamlico County,1508.0
+28624,Ferguson,Wilkes County,1499.0
+28606,Boomer,Wilkes County,1497.0
+28682,Terrell,Catawba County,1474.0
+27979,Sunbury,Gates County,1473.0
+28343,Gibson,Scotland County,1457.0
+27842,Henrico,Northampton County,1446.0
+27047,Siloam,Surry County,1439.0
+27829,Fountain,Pitt County,1436.0
+28442,Hallsboro,Columbus County,1432.0
+28902,Brasstown,Clay County,1419.0
+28363,Marston,Richmond County,1415.0
+27508,Bunn,Franklin County,1413.0
+28432,Clarendon,Columbus County,1407.0
+27242,Eagle Springs,Moore County,1366.0
+27974,Shiloh,Camden County,1351.0
+27016,Danbury,Stokes County,1339.0
+27884,Stokes,Pitt County,1332.0
+28766,Penrose,Transylvania County,1331.0
+28531,Harkers Island,Carteret County,1260.0
+27947,Jarvisburg,Currituck County,1259.0
+27938,Gatesville,Gates County,1233.0
+28683,Thurmond,Wilkes County,1232.0
+27876,Seaboard,Northampton County,1218.0
+27973,Shawboro,Currituck County,1205.0
+28009,Badin,Stanly County,1183.0
+27709,Durham,Durham County,1152.0
+28772,Rosman,Transylvania County,1149.0
+28644,Laurel Springs,Ashe County,1147.0
+27957,Merry Hill,Bertie County,1143.0
+28611,Collettsville,Caldwell County,1131.0
+28006,Alexis,Gaston County,1116.0
+27022,Lawsonville,Stokes County,1103.0
+27843,Hobgood,Halifax County,1053.0
+28439,Fair Bluff,Columbus County,1038.0
+27857,Oak City,Martin County,1037.0
+27919,Belvidere,Perquimans County,1035.0
+27946,Hobbsville,Gates County,1022.0
+28627,Glade Valley,Alleghany County,1020.0
+28556,Merritt,Pamlico County,1013.0
+28909,Warne,Clay County,993.0
+28101,Mc Adenville,Gaston County,970.0
+27885,Swanquarter,Hyde County,963.0
+27866,Pleasant Hill,Northampton County,961.0
+27314,Prospect Hill,Caswell County,956.0
+27936,Frisco,Dare County,953.0
+28434,Council,Bladen County,948.0
+27927,Corolla,Currituck County,947.0
+27014,Cooleemee,Davie County,942.0
+27826,Fairfield,Hyde County,924.0
+28774,Sapphire,Transylvania County,924.0
+28448,Kelly,Bladen County,902.0
+28452,Longwood,Brunswick County,899.0
+27953,Manns Harbor,Dare County,888.0
+28649,Mc Grady,Wilkes County,868.0
+27916,Aydlett,Currituck County,860.0
+28740,Green Mountain,Yancey County,849.0
+27923,Coinjock,Currituck County,827.0
+27966,Powells Point,Currituck County,818.0
+27813,Black Creek,Wilson County,792.0
+28527,Ernul,Craven County,788.0
+28736,Glenville,Jackson County,782.0
+28781,Topton,Cherokee County,781.0
+27531,Goldsboro,Wayne County,778.0
+28631,Grassy Creek,Ashe County,758.0
+28017,Boiling Springs,Cleveland County,730.0
+27862,Pendleton,Northampton County,727.0
+28007,Ansonville,Anson County,720.0
+27960,Ocracoke,Hyde County,706.0
+27922,Cofield,Hertford County,687.0
+27555,Micro,Johnston County,672.0
+27964,Point Harbor,Currituck County,661.0
+27942,Harrellsville,Hertford County,658.0
+27847,Kelford,Bertie County,649.0
+27917,Barco,Currituck County,647.0
+28579,Smyrna,Carteret County,639.0
+28511,Atlantic,Carteret County,626.0
+28528,Gloucester,Carteret County,619.0
+28663,Piney Creek,Alleghany County,616.0
+27568,Pine Level,Johnston County,607.0
+27042,Pine Hall,Stokes County,606.0
+28325,Calypso,Duplin County,605.0
+27853,Margarettsville,Northampton County,591.0
+28308,Pope A F B,Cumberland County,588.0
+27956,Maple,Currituck County,549.0
+28671,Rutherford College,Burke County,545.0
+27872,Roxobel,Bertie County,535.0
+28076,Henrietta,Rutherford County,521.0
+28575,Salter Path,Carteret County,481.0
+28668,Roaring Gap,Alleghany County,481.0
+27875,Scranton,Hyde County,477.0
+28628,Glen Alpine,Burke County,476.0
+28077,High Shoals,Gaston County,467.0
+27943,Hatteras,Dare County,460.0
+28702,Almond,Swain County,456.0
+28332,Dublin,Bladen County,442.0
+27941,Harbinger,Currituck County,424.0
+27915,Avon,Dare County,421.0
+28745,Lake Junaluska,Haywood County,417.0
+27873,Saratoga,Wilson County,413.0
+27582,Stovall,Granville County,409.0
+28553,Marshallberg,Carteret County,402.0
+27965,Poplar Branch,Currituck County,399.0
+27985,Winfall,Perquimans County,390.0
+28718,Cedar Mountain,Transylvania County,379.0
+28581,Stacy,Carteret County,361.0
+28667,Rhodhiss,Caldwell County,360.0
+28519,Bridgeton,Craven County,341.0
+28109,Misenheimer,Stanly County,334.0
+28577,Sealevel,Carteret County,333.0
+27840,Hamilton,Martin County,328.0
+28708,Balsam Grove,Transylvania County,318.0
+27879,Simpson,Pitt County,316.0
+28583,Stonewall,Pamlico County,313.0
+28646,Linville,Avery County,310.0
+28775,Scaly Mountain,Macon County,304.0
+28735,Gerton,Henderson County,303.0
+28330,Cordova,Richmond County,293.0
+28524,Davis,Carteret County,285.0
+28587,Vandemere,Pamlico County,263.0
+27819,Conetoe,Edgecombe County,249.0
+28520,Cedar Island,Carteret County,243.0
+27556,Middleburg,Vance County,238.0
+28089,Lattimore,Cleveland County,227.0
+27821,Edward,Beaufort County,225.0
+28342,Falcon,Cumberland County,216.0
+28554,Maury,Greene County,205.0
+28169,Waco,Cleveland County,202.0
+28707,Balsam,Jackson County,201.0
+28662,Pineola,Avery County,193.0
+27978,Stumpy Point,Dare County,184.0
+28720,Chimney Rock,Rutherford County,177.0
+27967,Powellsville,Bertie County,174.0
+28552,Lowland,Pamlico County,169.0
+28616,Crossnore,Avery County,166.0
+28375,Proctorville,Robeson County,164.0
+28108,Mineral Springs,Union County,160.0
+27881,Speed,Edgecombe County,146.0
+28350,Lakeview,Moore County,144.0
+27968,Rodanthe,Dare County,141.0
+28749,Little Switzerland,Mcdowell County,138.0
+28666,Icard,Burke County,138.0
+28589,Williston,Carteret County,131.0
+28367,Norman,Richmond County,126.0
+28757,Montreat,Buncombe County,100.0
+28102,Mc Farlan,Anson County,95.0
+27972,Salvo,Dare County,91.0
+28537,Hobucken,Pamlico County,90.0
+28039,East Spencer,Rowan County,82.0
+27201,Alamance,Alamance County,66.0
+27827,Falkland,Pitt County,59.0
+27982,Waves,Dare County,56.0
+28424,Brunswick,Columbus County,48.0
+27825,Everetts,Martin County,46.0
+27861,Parmele,Martin County,44.0
+27340,Saxapahaw,Alamance County,43.0
+28733,Fontana Dam,Graham County,27.0
+28725,Dillsboro,Jackson County,26.0
+28647,Linville Falls,Burke County,16.0
+27841,Hassell,Martin County,16.0
+28672,Scottville,Ashe County,15.0
+28629,Glendale Springs,Ashe County,
+28282,Charlotte,Mecklenburg County,
+28244,Charlotte,Mecklenburg County,
+28280,Charlotte,Mecklenburg County,
+28019,Caroleen,Rutherford County,
+28652,Minneapolis,Avery County,
